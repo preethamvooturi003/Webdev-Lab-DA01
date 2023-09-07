@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #f08804;
+}
+#menu{
+    background-color:black;
+    height: 100px;
+    border-radius: 5px;
+    
+}
+#mainpic1{
+    background-size: cover;
+}
+a{
+    margin: 100px;
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: #f08804;
+    
+    
+}
+input{
+    color:rgb(0,0,0,0.75);
+}
+#body{
+    
+   height: 600px;
+}
+footer{
+    background-color: rgb(105,105,105,0.5);
+    height: 100px;
+    text-align: center;
+    
+}
+.content{
+    background-color: grey;
+    color:white;
+}
+#content{
+    text-align: center;
+    margin-top: 3em;
+
+}
+footer{
+    position: static;
+    bottom: 0px;
+    margin-top: 26em;
+    padding-top:2em;
+}
